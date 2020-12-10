@@ -3,3 +3,6 @@ notebook_env/
 *.csv
 .ipynb_checkpoints/
 .env/
+*.jpg
+*.png
+*.dcm
