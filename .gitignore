@@ -6,3 +6,6 @@ notebook_env/
 *.jpg
 *.png
 *.dcm
+*.exe
+*.pyc
+_sc.json

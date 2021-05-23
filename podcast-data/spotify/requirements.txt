@@ -1,0 +1,2 @@
+selenium
+msedge-selenium-tools
