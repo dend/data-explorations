@@ -9,3 +9,5 @@ notebook_env/
 *.exe
 *.pyc
 _sc.json
+_cid.txt
+_sid.txt
